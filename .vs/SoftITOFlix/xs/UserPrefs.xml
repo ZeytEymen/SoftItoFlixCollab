@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{8A1AF79D-7BA8-4B1D-8CA5-97D8B2ABBBFB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoftITOFlix" selected="True">
+            <Node name="SoftITOFlix" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SoftITOFlix PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
